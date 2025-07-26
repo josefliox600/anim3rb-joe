@@ -1,0 +1,1 @@
+rootProject.name = "aniyomi-anime3rb-josef"
