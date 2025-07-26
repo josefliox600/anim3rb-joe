@@ -1,0 +1,8 @@
+{
+  "name": "Anime3rb (AR)",
+  "pkg": "ar.anime3rb",
+  "lang": "ar",
+  "version": 1,
+  "baseUrl": "https://anime3rb.com",
+  "type": "anime"
+}
